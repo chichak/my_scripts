@@ -1,2 +1,26 @@
 + Spacy (NLP) : 
 http://datacamp-community-prod.s3.amazonaws.com/29aa28bf-570a-4965-8f54-d6a541ae4e06
+
++ Labelling unstructured data : 
+https://medium.com/brillio-data-science/labelling-unstructured-text-data-in-python-974e809b98d9
+
++ Lambda functions of pandas : 
+https://towardsdatascience.com/apply-and-lambda-usage-in-pandas-b13a1ea037f7
+
++ spacy rule based matching : 
+https://spacy.io/usage/rule-based-matching
+
++ NLP open links : 
+Text summarization : https://www.presentslide.in/2019/08/text-summarization-python-spacy-library.html
+
++ Spacy prodigy : 
+https://spacy.io/universe/project/prodigy
+
++ NLU john Snow Library:
+https://github.com/JohnSnowLabs/nlu/blob/master/examples/colab/component_examples/word_embeddings/NLU_BIOBERT_word_embeddings_and_t-SNE_visualization_example.ipynb
+
++ Using BERT tuto : 
+https://medium.com/@armandj.olivares/using-bert-for-classifying-documents-with-long-texts-5c3e7b04573d
+
++ AWS Deeplens app example:
+https://towardsaws.com/aws-deeplens-and-telegram-saving-birds-food-and-plants-from-my-dog-8d451db3a5c6
